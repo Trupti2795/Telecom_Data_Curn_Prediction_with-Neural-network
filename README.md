@@ -1,5 +1,7 @@
 # Telecom_Data_Curn_Prediction_with-Neural-network
+ 
  What are we doing?
+ 
  Here we are learning to do Churn Prediction on Telecom dataset with Neural network and also HyperParameter tuning to learn how to select number of Hidden layers and hiddn Neurons
 
 What is churn prediction model?
